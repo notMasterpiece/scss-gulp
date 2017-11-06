@@ -1,0 +1,10 @@
+@import "fonts";
+@import "base";
+
+// Пользовательские стили
+
+body {
+  background-color: tomato;
+}
+
+@import "media"; // Всегда в конце

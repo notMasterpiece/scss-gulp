@@ -1,5 +1,6 @@
 $(function() {
+    console.log('ready');
 
-	// Custom JS
+
 
 });
