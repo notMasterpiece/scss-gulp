@@ -1,12 +1,12 @@
 {
-  "name": "simple-gulp-start",
+  "name": "scss-gulp",
   "version": "1.0.0",
   "description": "Simple Gulp Start Template (Sass, Browsersync, Uglify, cleanCSS, Autoprefixer)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "WebDesign-Master.ru",
+  "author": "Vasul Pankiv",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.18.13",
